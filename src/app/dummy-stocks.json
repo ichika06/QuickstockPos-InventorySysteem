@@ -1,0 +1,17 @@
+[
+  {"name": "Laptop Pro 15", "quantity": 10, "price": 1200},
+  {"name": "Wireless Mouse", "quantity": 30, "price": 25},
+  {"name": "Mechanical Keyboard", "quantity": 20, "price": 80},
+  {"name": "HD Monitor 24\"", "quantity": 15, "price": 180},
+  {"name": "USB-C Hub", "quantity": 40, "price": 35},
+  {"name": "External SSD 1TB", "quantity": 12, "price": 150},
+  {"name": "Smartphone X", "quantity": 18, "price": 900},
+  {"name": "Bluetooth Speaker", "quantity": 25, "price": 60},
+  {"name": "Webcam HD", "quantity": 22, "price": 50},
+  {"name": "Office Chair", "quantity": 8, "price": 220},
+  {"name": "Desk Lamp", "quantity": 35, "price": 30},
+  {"name": "Portable Projector", "quantity": 7, "price": 300},
+  {"name": "Fitness Tracker", "quantity": 28, "price": 70},
+  {"name": "Noise Cancelling Headphones", "quantity": 14, "price": 250},
+  {"name": "Smartwatch Z", "quantity": 16, "price": 200}
+]
